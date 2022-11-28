@@ -111,8 +111,3 @@ as following instructions:
 ## License
 
 MIT
-# nextjs-netlify-blog-template
-
-
-^ change
-change
